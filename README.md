@@ -1,4 +1,4 @@
-Estudos sobre algoritmos de organização como o BubleSort e o QuickSort
+Estudos sobre algoritmos de organização como o BoobleSort e o QuickSort
 
 algoritmos
 ==========
